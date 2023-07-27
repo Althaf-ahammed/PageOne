@@ -1,0 +1,53 @@
+.warning{
+    color: red;
+}
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+  .loraFont{
+    font-family: 'Lora', serif;
+  }
+  .ShopOnlineSpan{
+    color: rgb(125, 120, 120);
+  }
+  #cardContent{
+    padding-bottom: 0;
+  }
+  #currentCategory{
+    background-color: black;
+    color: white;
+  }
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  cursor: pointer;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+.pagination a {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #6c7ac9;
+  color: #6c7ac9;
+}
+.pagination__link {
+  font-weight: bold;
+}
+.pagination__link--active a {
+  color: #fff;
+  background: #6c7ac9;
+}
+.pagination__link--disabled a {
+  color: rgb(198, 197, 202);
+  border: 1px solid rgb(198, 197, 202);
+}
+#activeCategory{
+  color: #fff;
+  background-color: black;
+}

@@ -1,0 +1,22 @@
+.signupButton,.bookShelfIcon{
+    color: white;
+}
+.verticalNavButton{
+    color: white;
+    text-decoration: none;
+}
+.searchButtonIcon{
+    color: rgb(231, 229, 241);
+}
+.cartCount{
+    color: rgb(198, 185, 185);
+}
+.pageOneLogo{
+    width: 13%;
+}
+.pageOneLogoDrawer{
+    width: 65% ;
+}
+#userAppBar{
+    background-color: white;
+}

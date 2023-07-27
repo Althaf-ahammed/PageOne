@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Midiet_Serif_Bold
+font link: http://www.yoworks.com/midiet/index.html
+font author: Yamaoka Yasuhiro
+font author site: http://www.yoworks.com/
+
+
+icon designer: P Thanga Vignesh
+icon designer link: /amoghdesign
+        
+{"bg":"#FAF1EE","icon-gradient-0":"#B82949","icon-gradient-1":"#E9B84C","font":"#2F1911","slogan":"#432d25"}
+      

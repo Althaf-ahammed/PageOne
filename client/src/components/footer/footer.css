@@ -1,0 +1,22 @@
+.footerMain{
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 200px; 
+    background-color: rgb(58, 56, 56);
+    color: rgb(235, 226, 226);
+    font-family: 'Roboto Mono', monospace;
+}
+#outlined-basic{
+  color: white;
+}
+.newsletterInput{
+  background-color: rgb(177, 166, 166);
+  border-radius: 0.5px;
+}
+.copyrightP{
+  text-align: center;
+}
+.IconButton{
+  color:rgb(235, 226, 226) ;
+}

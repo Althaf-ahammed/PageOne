@@ -1,0 +1,43 @@
+.cover{
+    background-image: url('../../Assets/home-5-slider-image-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 573px;
+    width: 100%;
+}
+.coverImage2{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    animation-name: moveTop;
+    animation-duration: 0.5s;
+}
+.coverSlogen{
+    position: relative;
+    bottom:55%;
+    left: 45%;
+    font-family: 'Roboto Mono', monospace;
+    animation-name: moveLeft;
+    animation-duration: 1s;
+}
+.coverSpan{
+    color: rgb(149, 141, 141);
+    font-size: smaller;
+}
+.coverheading{
+    margin-top: 1%;
+    
+}
+#coverButton:hover{
+    background-color: black;
+    color: white;
+}
+@keyframes moveLeft {
+    0%   { left:55%; }
+    100% { right:0%;} 
+  }
+  @keyframes moveTop {
+    0%   { top:30%; }
+    100% { bottom:0%;} 
+  }
