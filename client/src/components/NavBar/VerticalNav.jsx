@@ -17,7 +17,6 @@ import ListItemText from '@mui/material/ListItemText';
 import { GiBookshelf } from "react-icons/gi";
 import { Link, useNavigate } from 'react-router-dom';
 
-
 function VerticalNav() {
   const navigate = useNavigate()
     const drawerWidth = 200;

@@ -28,7 +28,6 @@ import './navbar.css'
 
 const drawerWidth = 200;
 
-
 const AppBar = styled(MuiAppBar, {
   shouldForwardProp: (prop) => prop !== 'open',
 })(({ theme, open }) => ({
@@ -67,7 +66,6 @@ const DrawerHeader = styled('div')(({ theme }) => ({
     setOpen(false);
 
   }
-
 
   const navigate = useNavigate()
     const userId = localStorage.getItem('userId')
